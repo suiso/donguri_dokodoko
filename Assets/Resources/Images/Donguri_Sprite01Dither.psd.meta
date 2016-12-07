@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 1f95062d2a5b1460584b21d2de963d96
+timeCreated: 1481019503
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Donguri_Sprite01Dither_0
+    21300002: Donguri_Sprite01Dither_1
+    21300004: Donguri_Sprite01Dither_9
+    21300006: Donguri_Sprite01Dither_11
+    21300008: Donguri_Sprite01Dither_12
+    21300010: Donguri_Sprite01Dither_13
+    21300012: Donguri_Sprite01Dither_14
+    21300014: Donguri_Sprite01Dither_15
+    21300016: Donguri_Sprite01Dither_16
+    21300018: Donguri_Sprite01Dither_17
+    21300020: Donguri_Sprite01Dither_18
+    21300022: Donguri_Sprite01Dither_19
+    21300024: Donguri_Sprite01Dither_20
+    21300026: Donguri_Sprite01Dither_21
+    21300028: Donguri_Sprite01Dither_22
+    21300030: Donguri_Sprite01Dither_23
+    21300032: Donguri_Sprite01Dither_24
+    21300034: Donguri_Sprite01Dither_25
+    21300036: Donguri_Sprite01Dither_26
+    21300038: Donguri_Sprite01Dither_27
+    21300040: Donguri_Sprite01Dither_28
+    21300042: Donguri_Sprite01Dither_29
+    21300044: Donguri_Sprite01Dither_30
+    21300046: Donguri_Sprite01Dither_31
+    21300048: Donguri_Sprite01Dither_32
+    21300050: Donguri_Sprite01Dither_33
+    21300052: Donguri_Sprite01Dither_34
+    21300054: Donguri_Sprite01Dither_35
+    21300056: Donguri_Sprite01Dither_36
+    21300058: Donguri_Sprite01Dither_37
+    21300060: Donguri_Sprite01Dither_38
+    21300062: Donguri_Sprite01Dither_39
+    21300064: Donguri_Sprite01Dither_40
+    21300066: Donguri_Sprite01Dither_41
+    21300068: Donguri_Sprite01Dither_42
+    21300070: Donguri_Sprite01Dither_43
+    21300072: Donguri_Sprite01Dither_44
+    21300074: Donguri_Sprite01Dither_45
+    21300076: Donguri_Sprite01Dither_46
+    21300078: Donguri_Sprite01Dither_47
+    21300080: Donguri_Sprite01Dither_48
+    21300082: Donguri_Sprite01Dither_49
+    21300084: Donguri_Sprite01Dither_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1838
+        width: 1500
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_1
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1977
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_9
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1831
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_11
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1830
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_12
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1791
+        width: 486
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1732
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1731
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1731
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1738
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1739
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1739
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_20
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1741
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_21
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1741
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1591
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1550
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1593
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1551
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1547
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_27
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1550
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_28
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1455
+        width: 70
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_29
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1520
+        width: 138
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_30
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1554
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_31
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1504
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1571
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1562
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1568
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1548
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1553
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1550
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_39
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1562
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_40
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1555
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1548
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_42
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1501
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_43
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1481
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1163
+        width: 219
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_45
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 35
+        width: 1074
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1042
+        width: 465
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 601
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_48
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 145
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_49
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 39
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Donguri_Sprite01Dither_50
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 38
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
